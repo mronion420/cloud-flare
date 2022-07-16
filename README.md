@@ -24,3 +24,6 @@ select your options [1/2]
 
 # To Run type:
  cf --help
+# To expose your local host
+
+🔴 termux-chroot cf --url localhost:(your port)
