@@ -13,5 +13,5 @@ print("Telegram : https://t.me/mronion420")
 print("Note: To repair run script again")
 print("Instalation successful".center(40, "—"))
 print ("")
-print (" Type: cf --help "
+print (" Type: cf --help ")
 print ("")
